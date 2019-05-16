@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/src/Api/bin
+/src/Api/obj
+/src/Gateway/bin
+/src/Gateway/obj
+/src/IdentityServer/bin
+/src/IdentityServer/obj
